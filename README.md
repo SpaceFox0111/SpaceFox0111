@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceFox0111
 - 👀 I’m interested in Python, R and MySQL
-- 🌱 I’m currently doing my Master in Data Science
+- 🌱 Master in Data Science & economics
 - 💞️ I’m looking to collaborate on ...Python, R and MySQL projects
 - 📫 How to reach me ...SpaceFox0111atGmail.com
 
